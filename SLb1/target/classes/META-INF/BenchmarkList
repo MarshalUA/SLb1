@@ -1,0 +1,5 @@
+JMH S 30 com.mycompany.slb1.MyBenchmark S 67 com.mycompany.slb1.generated.MyBenchmark_benchmarkDeviation_jmhTest S 18 benchmarkDeviation S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 30 com.mycompany.slb1.MyBenchmark S 65 com.mycompany.slb1.generated.MyBenchmark_benchmarkAverage_jmhTest S 16 benchmarkAverage S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 30 com.mycompany.slb1.MyBenchmark S 61 com.mycompany.slb1.generated.MyBenchmark_benchmarkSum_jmhTest S 12 benchmarkSum S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 30 com.mycompany.slb1.MyBenchmark S 64 com.mycompany.slb1.generated.MyBenchmark_benchmarkFilter_jmhTest S 15 benchmarkFilter S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 30 com.mycompany.slb1.MyBenchmark S 66 com.mycompany.slb1.generated.MyBenchmark_benchmarkMultiply_jmhTest S 17 benchmarkMultiply S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E E E E E E E E U 12 MILLISECONDS E E 

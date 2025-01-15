@@ -1,0 +1,14 @@
+com\mycompany\slb1\MyBenchmark.class
+com\mycompany\slb1\SLb1.class
+com\mycompany\slb1\generated\MyBenchmark_jmhType_B2.class
+com\mycompany\slb1\generated\MyBenchmark_benchmarkDeviation_jmhTest.class
+com\mycompany\slb1\generated\MyBenchmark_benchmarkFilter_jmhTest.class
+com\mycompany\slb1\generated\MyBenchmark_jmhType_B3.class
+com\mycompany\slb1\Jmh.class
+com\mycompany\slb1\generated\MyBenchmark_jmhType.class
+com\mycompany\slb1\generated\MyBenchmark_benchmarkSum_jmhTest.class
+META-INF\BenchmarkList
+com\mycompany\slb1\generated\MyBenchmark_benchmarkAverage_jmhTest.class
+META-INF\CompilerHints
+com\mycompany\slb1\generated\MyBenchmark_benchmarkMultiply_jmhTest.class
+com\mycompany\slb1\generated\MyBenchmark_jmhType_B1.class
